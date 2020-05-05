@@ -68,6 +68,8 @@ diskImage_c_template=Template("""
  * The area available for actual storage is 30 KB
  ******************************************************************************/
 
+/*Image generated with https://github.com/vppillai/diskImager*/
+
 #include "configuration.h"
 #include "definitions.h"
 #include "usb/src/usb_device_msd_local.h"
